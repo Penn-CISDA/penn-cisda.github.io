@@ -1,0 +1,24 @@
+# - name: Alyssa Hwang
+#   status: "current"
+#   img: assets/img/alyssa_hwang.png
+#   url: https://alyssahwang.com
+- name: Caleb Stanford
+  status: "former"
+  img: assets/img/caleb_stanford.jpeg
+  url: https://www.cis.upenn.edu/~castan/
+- name: Paul He
+  status: "current"
+  img: assets/img/paul_he.png
+  url: https://paulhe.com
+- name: Alyssa Hwang
+  status: "current"
+  img: assets/img/alyssa_hwang.png
+  url: https://alyssahwang.com
+- name: Oshin Agarwal
+  status: "current"
+  img: assets/img/oshin_agarwal.jpeg
+  url: https://www.seas.upenn.edu/~oagarwal/
+- name: Nofel Yaseen
+  status: former
+  img: assets/img/nofel_yaseen.jpeg
+  url: https://www.seas.upenn.edu/~nyaseen/

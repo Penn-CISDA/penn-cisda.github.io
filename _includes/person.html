@@ -1,0 +1,12 @@
+<div style="margin-right: 10pt;">
+    <figure>
+        <img src="{{ include.img }}" width="170" height="170" style="object-fit: cover"/>
+        <figcaption>
+            {% if include.url != null %}
+            <a href="{{ include.url }}">{{ include.name }}</a>
+            {% else %}
+            {{ include.name }}
+            {% endif %}
+        </figcaption>
+    </figure>
+</div>
