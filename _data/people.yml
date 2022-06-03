@@ -1,24 +1,54 @@
-# - name: Alyssa Hwang
-#   status: "current"
-#   img: assets/img/alyssa_hwang.png
-#   url: https://alyssahwang.com
-- name: Caleb Stanford
-  status: "former"
-  img: assets/img/caleb_stanford.jpeg
-  url: https://www.cis.upenn.edu/~castan/
-- name: Paul He
-  status: "current"
-  img: assets/img/paul_he.png
-  url: https://paulhe.com
 - name: Alyssa Hwang
   status: "current"
+  position: Chair
   img: assets/img/alyssa_hwang.png
   url: https://alyssahwang.com
+- name: Paul He
+  status: "current"
+  position: Chair
+  img: assets/img/paul_he.png
+  url: https://paulhe.com
 - name: Oshin Agarwal
   status: "current"
+  position: Chair-in-training, Treasurer
   img: assets/img/oshin_agarwal.jpeg
   url: https://www.seas.upenn.edu/~oagarwal/
+- name: Jason Ma
+  status: "current"
+  position: Chair-in-training
+  img: assets/img/upenn-logo.png
+  url: https://penn-cisda.github.io/
+- name: Daniel Feshbach
+  status: "current"
+  position: CIS GSEG Representative
+  img: assets/img/upenn-logo.png
+  url: https://penn-cisda.github.io/
+- name: Caleb Stanford
+  status: "former"
+  position: Chair (2018-2021)
+  img: assets/img/caleb_stanford.jpeg
+  url: https://www.cis.upenn.edu/~castan/
 - name: Nofel Yaseen
-  status: former
+  status: "former"
   img: assets/img/nofel_yaseen.jpeg
   url: https://www.seas.upenn.edu/~nyaseen/
+- name: Danni Ma
+  status: "former"
+  position: Chair (2018-2021)
+  img: assets/img/upenn-logo.png
+  url: https://penn-cisda.github.io/
+- name: Pritam Choudhury
+  status: "former"
+  position: Chair (2018-2020)
+  img: assets/img/upenn-logo.png
+  url: https://penn-cisda.github.io/
+- name: Daphne Ippolito
+  status: "former"
+  position: Chair and founder (2017-2018)
+  img: assets/img/upenn-logo.png
+  url: https://penn-cisda.github.io/
+- name: Luke Valenta
+  status: "former"
+  position: Chair and founder (2017-2018)
+  img: assets/img/upenn-logo.png
+  url: https://penn-cisda.github.io/
