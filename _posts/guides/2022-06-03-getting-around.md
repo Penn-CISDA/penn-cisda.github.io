@@ -4,6 +4,8 @@ title: Getting Around?
 submitted_by: "[Joseph Cutler](https://www.cis.upenn.edu/~jwc/)"
 edited_by:
 ---
+<button><a href="/guides">Back to all Guides</a></button>
+
 Submitted by: {{ page.submitted_by }}
 
 {% if page.edited_by != null %}
@@ -18,3 +20,5 @@ Here’s a little guide to getting around your new city!
 - *Public Transit*: Philly has a public transportation system, known as “SEPTA” (Southeastern Pennsylvania Transportation Authority). SEPTA runs a rapid transit (subway) system, as well as a bus and trolley network. The subway system is less developed than the other cities on the US East Cast, so if you’re used to taking the NYC subway or DC metro everywhere, you might be a bit disappointed. Utilizes the buses and trollies make the system more extensive, but they are less reliable. Concretely, you can pay for all of these with a SEPTA Key, a contactless & refillable card which you can buy at any subway or trolley station, as well as at the Penn bookstore. All of the aforementioned public transit options cost $2.50 ($2 with a SEPTA Key Card) per ride, with free transfers.
 - *Penn Transit Options*: Penn operates its own private transportation service separate from SEPTA. Best of all, it’s all free! The most important offerings are the two bus lines, Penn Bus East & West, which make loops into Center City and West Philly respectively, and the evening on-demand shuttle service. The evening shuttle service can be requested from a website (and iOS app) called "PennRides", and operates between midnight - 3am on weekdays, and 6pm - 3am on weekends. It runs within a fairly large “service boundary” which includes much of west philly and western center city. Penn also runs other services, including shuttles to-and-from Pennovation, Drexel, and an accessible transit option. Details about schedules and routes of the above can be found on the Penn transportation website.
     - Exception: PennRides on-demand shuttle service operates from 6 PM to 3 AM every day when going west or to 30th Street Station.
+
+<button><a href="/guides">Back to all Guides</a></button>
