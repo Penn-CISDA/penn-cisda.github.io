@@ -23,6 +23,10 @@
   position: CIS GSEG Representative
   img: assets/img/upenn-logo.png
   url: https://penn-cisda.github.io/
+- name: Joseph Cutler
+  status: "current"
+  img: assets/img/joseph_cutler.jpeg
+  url: https://www.cis.upenn.edu/~jwc/
 - name: Caleb Stanford
   status: "former"
   position: Chair (2018-2021)
