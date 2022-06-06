@@ -3,7 +3,7 @@ layout: page
 title: Office Committee
 ---
 
-[offices@seas.upenn.edu](mailto:offices@seas.upenn.edu)
+[offices@seas.upenn.edu](mailto:offices@seas.upenn.edu){:target="_blank"}
 
 The Office Committee assigns desks for PhD students in Levine Hall and 3401 
 Walnut.
