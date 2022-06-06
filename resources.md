@@ -18,11 +18,12 @@ title: Resources
   Graduate Programs [Boon Thau Loo](https://boonloo.cis.upenn.edu/) frequently posts here)
 - [Claim your departmental Zoom account](https://upenn.zoom.us/)
 
-# Academic Resources
+# CIS Department Resources
 - [Research highlights webpage](https://highlights.cis.upenn.edu/)
 - [Access.CIS](https://access.cis.upenn.edu/): PhD student portal
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/16PHIwHQodiWW2u4BWmM8rXsNYDRSXIGXwkEVecerzEw/edit#gid=0) 
   with CIS group meetings and reading groups
+- [Faculty Meeting Notes](https://drive.google.com/drive/folders/1fKvY9u13pnsx5yP1CO8KFTIDb2ygRP82?usp=sharing) (requires Google@SEAS sign-in)
 
 # General Resources
 - [Wellness and Climate Communication Channels for Doctoral Students](https://docs.google.com/document/d/188Be6oetGfHrBbdKAcxs1anQtv_Xy3kC6GiflgsM2o0/edit?usp=sharing)

@@ -18,7 +18,7 @@ student leadership, feel free to send us an email.
 
 We communicate frequently with the Department Chair and Graduate Group Chair, 
 send a representative to the Graduate Student Engineering Group (GSEG), attend 
-faculty meetings, and host social events and town halls. We are always happy to 
+[faculty meetings](https://drive.google.com/drive/folders/1fKvY9u13pnsx5yP1CO8KFTIDb2ygRP82?usp=sharing){:target="_blank"}, and host social events and town halls. We are always happy to 
 chat, whether it's just to say hi, give pointers to resources, or discuss more 
 serious issues. Send us an email at 
 [cisda-chairs@seas.upenn.edu](mailto:cisda-chairs@seas.upenn.edu){:target="_blank"} (small group 
