@@ -1,21 +1,25 @@
 ---
-layout: post # Don't change this
-title: Official Title Of Your Guide # change this
+layout: guide # Don't change this
+title: "Official Title Of Your Guide" # change this
 
-# delete one of the submitted_by fields
 submitted_by: "FirstName LastName" # change this, keep the quotation marks
-submitted_by: "[FirstName LastName](https://mywebsite.com)" # Use this format if you want to link your website, keep the quotation marks
-
-edited_by: # add your name if you modified a document (not necessary for new guides)
+submitted_by_url: "https://mywebsite.com" # Use this format if you want to link your website, keep the quotation marks
 ---
-<button><a href="/guides">Back to all Guides</a></button>
+This is a sample guide! You can use *Markdown* and **HTML** to format your text.
 
-Submitted by: {{ page.submitted_by }}
+Make sure you title the file like this:
+YYYY-MM-DD-title-words-separated-with-hyphen.md
 
-{% if page.edited_by != null %}
-Edited by: {{ page.edited_by }}
-{% endif %}
+If your guide doesn't show up on the website, you probably named the file wrong!
 
-<!-- Your content here in MarkDown or HTML format (Jekyll can handle a mix of both!) -->
+You can do a table of contents like this:
+- toc
+{:toc}
 
-<button><a href="/guides">Back to all Guides</a></button>
+# Header 1
+The table of contents will use headers to update itself.
+
+## Header 1.1
+Don't forget to update the title, submitted_by, and submitted_by_url (your website) fields above.
+
+<a href="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/12/30151747/Pembroke-Welsh-Corgi-smiling-and-happy-outdoors.jpeg">Thanks for writing a guide!</a>
