@@ -1,21 +1,13 @@
 ---
-layout: post # Don't change this
+layout: guide # Don't change this
 title: What Classes Should You Take In Your First Year? # change this
 
 # delete one of the submitted_by fields
-submitted_by: "[Alyssa Hwang](https://alyssahwang.com)" # Use this format if you want to link your website, keep the quotation marks
+submitted_by: "Alyssa Hwang"
+submitted_by_url: "https://alyssahwang.com"
 
 edited_by: # add your name if you modified a document (not necessary for new guides)
 ---
-<button><a href="/guides">Back to all Guides</a></button>
-
-Submitted by: {{ page.submitted_by }}
-
-{% if page.edited_by != null %}
-Edited by: {{ page.edited_by }}
-{% endif %}
-
-<!-- Your content here in MarkDown or HTML format (Jekyll can handle a mix of both!) -->
 Wondering what classes to take in your first year? Here are some quick recommendations 
 (and an overview of the CIS PhD course requirements). Scroll down for the TLDR.
 
@@ -63,5 +55,3 @@ If you're worried about the timing of some of these milestones, talk with your a
 
 # TLDR
 In your first semester, take 1 [WPE-I](https://www.cis.upenn.edu/graduate/program-offerings/doctoral-program/wpe-i/regulations/){:target="_blank"}, 1 graduate-level seminar, and 1 independent study. Depending on your previous experience, you may be ready to take more classes or get involved more heavily in research. Be sure to discuss your plans with your advisor.
-
-<button><a href="/guides">Back to all Guides</a></button>

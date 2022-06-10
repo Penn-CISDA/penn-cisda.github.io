@@ -1,17 +1,9 @@
 ---
-layout: post
+layout: guide
 title: "First Years: Start Here!"
-submitted_by: "[Alyssa Hwang](https://alyssahwang.com)"
-edited_by:
+submitted_by: "Alyssa Hwang"
+submitted_by_url: "https://alyssahwang.com"
 ---
-<button><a href="/guides">Back to all Guides</a></button>
-
-Submitted by: {{ page.submitted_by }}
-
-{% if page.edited_by != null %}
-Edited by: {{ page.edited_by }}
-{% endif %}
-
 Hi, new students! I am very excited to welcome you to Penn CIS. I hope this first year-specific FAQ helps you start to get settled into the department. As always, feel free to email CISDA with any other questions!
 
 Table of Contents
@@ -48,5 +40,3 @@ Our stipend right now is $35k/year, with monthly payments of about $2.8k. The st
 
 ## How much wood would a woodchuck chuck if a woodchuck could chuck wood?
 A woodchuck would chuck all the wood it could chuck if a woodchuck could chuck wood.
-
-<button><a href="/guides">Back to all Guides</a></button>

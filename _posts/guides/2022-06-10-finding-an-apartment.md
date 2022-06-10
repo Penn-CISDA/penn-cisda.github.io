@@ -1,20 +1,12 @@
 ---
-layout: post # Don't change this
-title: Finding an Apartment in Philadelphia # change this
+layout: guide # Don't change this
+title: "Finding an Apartment in Philadelphia" # change this
 
 # delete one of the submitted_by fields
 submitted_by: "Daniel Feshbach" # Use this format if you want to link your website, keep the quotation marks
 
 edited_by: # add your name if you modified a document (not necessary for new guides)
 ---
-<button><a href="/guides">Back to all Guides</a></button>
-
-Submitted by: {{ page.submitted_by }}
-
-{% if page.edited_by != null %}
-Edited by: {{ page.edited_by }}
-{% endif %}
-
 Penn does have some grad student apartments but these have a reputation for being in terrible, terrible condition: all the older students told me not to live there.
 
 More usefully, Penn has an [off-campus housing website](https://offcampushousing.upenn.edu/) only open to Penn people which includes a roommate profile/search system: this is how I found my roommate my first year. This website has some apartment listings from landlords, but those are the kinds of things you can also find on zillow, so it's mostly useful to find openings in existing student groups that already have a place, and people looking to form groups to find a place.
@@ -29,5 +21,3 @@ Penn is in the easternmost part of West Philly (which refers to west of the Schu
 Get a SEPTA keycard and look at the bus, train, and trolley routes near where you plan to live. If you're physically in the Bi-Co while you're looking (which I wasn't because my first housing search was summer 2020), go into the city and walk around various neighborhoods, explore the transit options, etc.
 
 Most grad students do not have or need cars. Car maintenance is expensive, as is parking in the city. Grad students who do have cars mostly live significantly further west in West Philly, because it's less dense so the parking is cheaper, and because the cheaper rent helps with car expenses.
-
-<button><a href="/guides">Back to all Guides</a></button>
