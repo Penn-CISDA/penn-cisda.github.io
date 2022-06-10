@@ -30,14 +30,14 @@ layout: default
             {%- else -%}
             • Submitted by <a href="{{ page.submitted_by_url }}">{{ page.submitted_by }} </a>
             {%- endif -%}
+            
+            • <button><a href="/guides">Back to all Guides</a></button>
         </p>
     </header>
 
-    <button><a href="/guides">Back to all Guides</a></button>
     <div class="post-content e-content" itemprop="articleBody">
         {{ content }}
     </div>
-    <button><a href="/guides">Back to all Guides</a></button>
 
     {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
