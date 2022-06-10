@@ -26,9 +26,9 @@ layout: default
             {%- endif -%}
 
             {%- if page.submitted_by_url == null -%}
-            • Submitted by {{ page.submitted_by }}
+            <span>• Submitted by {{ page.submitted_by }} </span>
             {%- else -%}
-            • Submitted by <a href="{{ page.submitted_by_url }}">{{ page.submitted_by }} </a>
+            <span>• Submitted by <a href="{{ page.submitted_by_url }}">{{ page.submitted_by }} </a></span>
             {%- endif -%}
             
             • <button><a href="/guides">Back to all Guides</a></button>
