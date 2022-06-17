@@ -13,7 +13,7 @@ desk assignments by the end of summer 2022.
 
 The current members of the Office Committee are:
 
-- Steve Zdancewic (Associate Chair)
+- Steve Zdancewic (Associate Department Chair)
 - Cheryl Hickey (Administrative/Event Coordinator)
 - Alyssa Hwang (PhD Student)
 - Harry Goldstein (PhD Student)
