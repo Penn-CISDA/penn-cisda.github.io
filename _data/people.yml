@@ -27,6 +27,10 @@
   status: "current"
   img: assets/img/joseph_cutler.jpeg
   url: https://www.cis.upenn.edu/~jwc/
+- name: Helen Jin
+  status: "current"
+  img: assets/img/helen_jin.jpeg
+  url: https://helenjin.github.io/
 - name: Caleb Stanford
   status: "former"
   position: Chair (2018-2021)
