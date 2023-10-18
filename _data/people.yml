@@ -1,34 +1,52 @@
-- name: Alyssa Hwang
+- name: Chris Watson
   status: "current"
   position: Chair
-  img: assets/img/alyssa_hwang.png
-  url: https://alyssahwang.com
+  img: assets/img/chris_watson.jpeg
+  url: https://www.seas.upenn.edu/~ccwatson/
+- name: Princess Sampson
+  status: "current"
+  position: Chair
+  img: assets/img/princess_sampson.jpeg
+  url: https://www.linkedin.com/in/pdotsamp/
+- name: Spyros Pavlatos
+  status: "current"
+  position: Chair-in-Training
+  img: assets/img/spyros_pavlatos.jpg
+  url: https://spyrospav.github.io/
 - name: Paul He
-  status: "current"
-  position: Chair
+  status: "former"
+  position: Chair (2022-2023)
   img: assets/img/paul_he.png
   url: https://paulhe.com
 - name: Oshin Agarwal
-  status: "current"
+  status: "former"
   position: Chair-in-Training, Treasurer
+  position2: (2022-2023)
   img: assets/img/oshin_agarwal.jpeg
   url: https://www.seas.upenn.edu/~oagarwal/
 - name: Jason Ma
-  status: "current"
+  status: "former"
   position: Chair-in-Training
+  position2: (2022-2023)
   img: assets/img/jason_ma.png
   url: https://www.seas.upenn.edu/~jasonyma/
+- name: Hita Kambhamettu
+  status: "current"
+  position: GSEG Representative
+  img: assets/img/hita_kambhamettu.png
+  url: https://hita-k.github.io/
 - name: Daniel Feshbach
   status: "current"
-  position: CIS GSEG Representative
+  position: Diversity Advisory Board
   img: assets/img/upenn-logo.png
   url: https://penn-cisda.github.io/
 - name: Joseph Cutler
   status: "current"
+  position: Doctoral Advisory Board
   img: assets/img/joseph_cutler.jpeg
   url: https://www.cis.upenn.edu/~jwc/
 - name: Helen Jin
-  status: "current"
+  status: "former"
   img: assets/img/helen_jin.jpeg
   url: https://helenjin.github.io/
 - name: Caleb Stanford
@@ -52,16 +70,28 @@
   url: https://penn-cisda.github.io/
 - name: Daphne Ippolito
   status: "former"
-  position: Chair and Founder (2017-2018)
+  position: Chair and Founder
+  position2: (2017-2018)
   img: assets/img/upenn-logo.png
   url: https://penn-cisda.github.io/
 - name: Luke Valenta
   status: "former"
-  position: Chair and Founder (2017-2018)
+  position: Chair and Founder
+  position2: (2017-2018)
   img: assets/img/upenn-logo.png
   url: https://penn-cisda.github.io/
-- name: Chris Watson
+- name: Joey Velez-Ginorio
   status: "current"
-  position: Chair-in-Training
-  img: assets/img/chris_watson.jpeg
-  url: https://www.seas.upenn.edu/~ccwatson/
+  position: Diversity Advisory Board
+  img: assets/img/joey_velez-ginorio.jpg
+  url: https://www.seas.upenn.edu/~joeyv/
+- name: Alaia Solko-Breslin
+  status: "current"
+  position: TGIF Coordinator
+  img: assets/img/alaia_solko-breslin.png
+  url: https://alaiasolkobreslin.github.io/
+- name: Alyssa Hwang
+  status: "current"
+  position: Chair Emeritus
+  img: assets/img/alyssa_hwang.png
+  url: https://alyssahwang.com
