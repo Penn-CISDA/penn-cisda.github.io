@@ -16,7 +16,7 @@ title: People
   <div class="people">
     {% for person in site.data.people %}
       {% if person.status == "current" %}
-        {% include person.html name=person.name img=person.img url=person.url position=person.position %}
+        {% include person.html name=person.name img=person.img url=person.url position=person.position position2=person.position2 %}
       {% endif %}
     {% endfor %}
   </div>
@@ -27,7 +27,7 @@ title: People
   <div class="people">
     {% for person in site.data.people %}
       {% if person.status == "former" %}
-        {% include person.html name=person.name img=person.img url=person.url position=person.position %}
+        {% include person.html name=person.name img=person.img url=person.url position=person.position position2=person.position2 %}
       {% endif %}
     {% endfor %}
   </div>
