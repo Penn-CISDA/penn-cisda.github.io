@@ -27,6 +27,8 @@ The Office Committee (which @Harry Goldstein @Stephen Mell and I are on) is work
 If you have access to email already, you may have seen some emails about TGIF! That’s our department happy hour, organized by our wonderful TGIF committee (which is led by Jessica Shi and Joe Cutler). Come by for free drinks and food!
 
 ## What classes should I take in the fall?
+**Update 18 Oct 2023**: The department is modifying the PhD requirements, so this section is outdated.
+
 In general, I would recommend 1 WPE-I, 1 elective/seminar, and 1 independent study. WPE-Is are basically qualifiers/“core” courses. You’ll need to take 4 out of a list of 8, with some possible exceptions that I don’t want to overwhelm this post with. You’ll need to take 4 additional courses---these can be any graduate-level course in the entire university! If you have a masters, you should be able to waive 2 of these additional courses. Depending on your previous experience, you may or may not be ready to dive into research. I certainly wasn’t! I did minimal research in my first year and half. Ask your advisor about their expectations and recommendations.
 
 ## What’s an independent study?

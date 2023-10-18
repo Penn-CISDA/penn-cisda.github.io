@@ -1,6 +1,6 @@
 ---
 layout: guide # Don't change this
-title: What Classes Should You Take In Your First Year? # change this
+title: What Classes Should You Take In Your First Year? (Outdated Fall 2023) # change this
 
 # delete one of the submitted_by fields
 submitted_by: "Alyssa Hwang"
@@ -8,6 +8,8 @@ submitted_by_url: "https://alyssahwang.com"
 
 edited_by: # add your name if you modified a document (not necessary for new guides)
 ---
+**Update 18 Oct 2023**: The department is modifying PhD requirements, so this guide is outdated.
+
 Wondering what classes to take in your first year? Here are some quick recommendations 
 (and an overview of the CIS PhD course requirements). Scroll down for the TLDR.
 
