@@ -1,16 +1,16 @@
 - name: Chris Watson
-  status: "current"
-  position: Chair
+  status: "former"
+  position: Chair (2022-2024)
   img: assets/img/chris_watson.jpeg
   url: https://www.seas.upenn.edu/~ccwatson/
 - name: Princess Sampson
-  status: "current"
-  position: Chair
+  status: "former"
+  position: Chair (2022-2024)
   img: assets/img/princess_sampson.jpeg
-  url: https://www.linkedin.com/in/pdotsamp/
+  url: https://psampson.net/
 - name: Spyros Pavlatos
-  status: "current"
-  position: Chair-in-Training
+  status: "former"
+  position: Chair (2023-2025)
   img: assets/img/spyros_pavlatos.jpg
   url: https://spyrospav.github.io/
 - name: Paul He
@@ -23,25 +23,25 @@
   position: Chair-in-Training, Treasurer
   position2: (2022-2023)
   img: assets/img/oshin_agarwal.jpeg
-  url: https://www.seas.upenn.edu/~oagarwal/
+  url: https://oagarwal.github.io/
 - name: Jason Ma
   status: "former"
   position: Chair-in-Training
   position2: (2022-2023)
   img: assets/img/jason_ma.png
-  url: https://www.seas.upenn.edu/~jasonyma/
+  url: https://jasonma2016.github.io/
 - name: Hita Kambhamettu
-  status: "current"
+  status: "former"
   position: GSEG Representative
   img: assets/img/hita_kambhamettu.png
   url: https://hita-k.github.io/
 - name: Daniel Feshbach
-  status: "current"
+  status: "former"
   position: Diversity Advisory Board
   img: assets/img/upenn-logo.png
   url: https://penn-cisda.github.io/
 - name: Joseph Cutler
-  status: "current"
+  status: "former"
   position: Doctoral Advisory Board
   img: assets/img/joseph_cutler.jpeg
   url: https://www.cis.upenn.edu/~jwc/
@@ -53,7 +53,7 @@
   status: "former"
   position: Chair (2018-2021)
   img: assets/img/caleb_stanford.jpeg
-  url: https://www.cis.upenn.edu/~castan/
+  url: https://web.cs.ucdavis.edu/~cdstanford/
 - name: Nofel Yaseen
   status: "former"
   img: assets/img/nofel_yaseen.jpeg
@@ -73,7 +73,7 @@
   position: Chair and Founder
   position2: (2017-2018)
   img: assets/img/upenn-logo.png
-  url: https://penn-cisda.github.io/
+  url: https://www.daphnei.com/
 - name: Luke Valenta
   status: "former"
   position: Chair and Founder
@@ -81,15 +81,45 @@
   img: assets/img/upenn-logo.png
   url: https://penn-cisda.github.io/
 - name: Joey Velez-Ginorio
-  status: "current"
+  status: "former"
   position: Diversity Advisory Board
   img: assets/img/joey_velez-ginorio.jpg
   url: https://www.seas.upenn.edu/~joeyv/
 - name: Alaia Solko-Breslin
   status: "current"
-  position: TGIF Coordinator
+  position: Chair
   img: assets/img/alaia_solko-breslin.png
   url: https://alaiasolkobreslin.github.io/
+- name: Avishree Khare
+  status: "current"
+  position: Chair
+  img: assets/img/avishree_khare.jpg
+  url: https://avishreekh.github.io/
+- name: Neil Sehgal
+  status: "current"
+  position: Doctoral Advisory Board
+  img: assets/img/neil_sehgal.jpeg
+  url: https://sehgal-neil.github.io/
+- name: Stephanie Wang
+  status: "current"
+  position: Doctoral Advisory Board
+  img: assets/img/stephanie_wang.jpeg
+  url: https://steph-w.github.io/
+- name: Josh Nguyen
+  status: "current"
+  position: Doctoral Advisory Board
+  img: assets/img/josh_nguyen.jpg
+  url: https://joshnguyen.net/
+- name: Mialy Rasetarinera
+  status: "current"
+  position: GSEG Representative
+  img: assets/img/mialy_rasetarinera.jpeg
+  url: https://mialynr.github.io/
+- name: Roger Burtonpatel
+  status: "current"
+  position: TGIF Coordinator
+  img: assets/img/roger_burtonpatel.jpeg
+  url: https://rogerburtonpatel.github.io/
 - name: Alyssa Hwang
   status: "current"
   position: Chair Emeritus
