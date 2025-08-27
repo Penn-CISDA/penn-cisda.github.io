@@ -2,8 +2,6 @@
 layout: page
 title: Resources
 ---
-# COVID Resources
-- [COVID-19 Dashboard](https://coronavirus.upenn.edu/announcements){:target="_blank"}
 
 # Social Events
 - Add the [CISDA Events Calendar](https://calendar.google.com/calendar?cid=Y19ncGk4cXBrcWFyNDg5bTFsOXQ4djhhNjJrb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t){:target="_blank"}
@@ -27,6 +25,7 @@ title: Resources
 
 # General Resources
 - [Wellness and Climate Communication Channels for Doctoral Students](https://docs.google.com/document/d/188Be6oetGfHrBbdKAcxs1anQtv_Xy3kC6GiflgsM2o0/edit?usp=sharing){:target="_blank"}
+- [SEAS room reservations](https://cets.seas.upenn.edu/answers/room-reservation.html)
 
 # Feedback
 - <a href="https://forms.gle/TKztGT46pPWcy8qn9" target="_blank">Feedback form</a>

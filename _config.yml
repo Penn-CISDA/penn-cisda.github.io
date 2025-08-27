@@ -1,6 +1,6 @@
 title: CISDA
 author:
-  name: Alyssa Hwang
+  name: Alaia Solko-Breslin
   email: cisda-chairs@seas.upenn.edu
 description: > # this means to ignore newlines until "show_excerpts:"
   The official website for the Computer and Information Science Doctoral 
@@ -52,7 +52,6 @@ minima:
 header_pages:
   - people.md
   - guides.md
-  - office.md
   - resources.md
   - FAQ.md
   - contact_us.md
