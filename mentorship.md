@@ -11,4 +11,4 @@ We organize fun monthly outings for Mentorship Program participants!
 Past activities have included an escape room, candle making, ice skating, and more!
 
 ![](https://penn-cisda.github.io/assets/img/mp2023.jpg)
-![](https://penn-cisda.github.io/img/mp2022.jpeg)
+![](https://penn-cisda.github.io/assets/img/mp2022.jpeg)
