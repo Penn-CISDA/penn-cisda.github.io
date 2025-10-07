@@ -95,6 +95,16 @@
   position: Chair
   img: assets/img/avishree_khare.jpg
   url: https://avishreekh.github.io/
+- name: Mialy Rasetarinera
+  status: "current"
+  position: Chair-in-Training
+  img: assets/img/mialy_rasetarinera.jpeg
+  url: https://mialynr.github.io/
+- name: Allen Chang
+  status: "current"
+  position: Chair-in-Training
+  img: assets/img/allen_chang.jpg
+  url: https://www.cylumn.com/
 - name: Neil Sehgal
   status: "current"
   position: Doctoral Advisory Board
@@ -110,16 +120,26 @@
   position: Doctoral Advisory Board
   img: assets/img/josh_nguyen.jpg
   url: https://joshnguyen.net/
-- name: Mialy Rasetarinera
+- name: Vinam Arora
   status: "current"
   position: GSEG Representative
-  img: assets/img/mialy_rasetarinera.jpeg
-  url: https://mialynr.github.io/
+  img: assets/img/vinam_arora.jpg
+  url: https://vinam.dev/
+- name: Mayank Keoliya
+  status: "current"
+  position: TGIF Coordinator
+  img: assets/img/mayank_keoliya.jpg
+  url: https://www.seas.upenn.edu/~mkeoliya/
 - name: Roger Burtonpatel
   status: "current"
   position: TGIF Coordinator
   img: assets/img/roger_burtonpatel.jpeg
   url: https://rogerburtonpatel.github.io/
+- name: Zain Aamer
+  status: "current"
+  position: TGIF Coordinator
+  img: assets/img/upenn-logo.png
+  url: https://penn-cisda.github.io/
 - name: Alyssa Hwang
   status: "current"
   position: Chair Emeritus
